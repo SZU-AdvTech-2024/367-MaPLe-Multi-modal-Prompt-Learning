@@ -1,0 +1,11 @@
+@inproceedings{REPO367,
+    author = "Khattak, Muhammad Uzair and Rasheed, Hanoona and Maaz, Muhammad and Khan, Salman and Khan, Fahad Shahbaz",
+    booktitle = "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    doi = "10.1109/CVPR52729.2023.01832",
+    keywords = "Couplings;Adaptation models;Computer vision;Image recognition;Computational modeling;Transformers;Natural language processing;Multi-modal learning",
+    number = "",
+    pages = "19113-19122",
+    title = "{MaPLe: Multi-modal Prompt Learning}",
+    volume = "",
+    year = "2023"
+}
